@@ -1,9 +1,9 @@
 Package: drauger-plasma-theme
-Version: 0.0.1
+Version: 0.0.2
 Maintainer: Thomas Castleman <batcastle@draugeros.org>
 Section: kde
 Architecture: all
 Priority: optional
-Depends: drauger-splash, drauger-wallpapers
+Depends: drauger-splash, drauger-wallpaper
 Description: KDE Plasma theming for Drauger OS
  This package provides the default KDE Plasma theme for Drauger OS 7.7
